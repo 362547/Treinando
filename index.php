@@ -1,5 +1,5 @@
 <?php
 
-echo "TREINO DO Athos";
+echo "TREINO DE GIT";
 
 ?>
